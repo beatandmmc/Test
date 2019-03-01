@@ -1,4 +1,10 @@
-hel
-¼±¼±¼±world
+<<<<<<< HEAD
+
+
 ttttt
 jjj
+=======
+kkkk
+hel
+world
+>>>>>>> lrd
